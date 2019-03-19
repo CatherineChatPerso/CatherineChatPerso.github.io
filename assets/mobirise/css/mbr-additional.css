@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
+#header1-3 H1 {
+  font-family: 'Oxygen', sans-serif;
+}
+#header1-3 P {
+  color: #e7aa1f;
+}
+#msg-box4-e .lead P {
+  text-align: right;
+}
+#msg-box4-c .lead P {
+  text-align: left;
+}
+#msg-box4-i .lead P {
+  text-align: right;
+}
+#msg-box5-h .lead P {
+  text-align: left;
+}
+#menu-9 .navbar-toggler {
+  color: #000;
+}
+#testimonials1-g .card-block I {
+  color: #37383e;
+}
+#testimonials1-g .card-footer > div {
+  color: #e7aa1f;
+}
+#menu-j .navbar-toggler {
+  color: #000;
+}
+#msg-box3-q .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-q .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-q .lead P {
+  text-align: left;
+}
+#msg-box3-q .mbr-section-title {
+  text-align: left;
+}
+#msg-box3-u .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-u .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-u .mbr-section-title {
+  text-align: left;
+}
+#msg-box3-u .lead P {
+  text-align: left;
+}
