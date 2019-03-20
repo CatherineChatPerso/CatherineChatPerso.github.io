@@ -1,0 +1,778 @@
+{
+  "settings": {
+    "name": "LMCP",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": [
+        "#37383e",
+        "#e7aa1f"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "siteFonts": [],
+    "versionFirst": "4.7.7",
+    "uniqCompNum": 31,
+    "versionPublish": "4.9.6",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Cultivez votre bien-être par le mouvement",
+          "text": "Avec la Méthode Feldenkrais™, prenez conscience de vos habitudes de mouvements, des efforts &nbsp;qui vous limitent, voire qui vous heurtent. Apprenez, en toute sécurité et efficacité, à trouver vos stratégies de mouvement pour bouger dans votre quotidien, avancer dans vos projets, et à terme, réaliser vos rêves.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#msg-box4-e\" data-toolbar=\"-mbrBtnMove\">Séances de Groupe</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#msg-box4-i\" data-toolbar=\"-mbrBtnMove\">Séances Individuelles</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">En savoir plus...</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-3",
+          "_styles": {
+            "H1": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "P": {
+              "color": "#e7aa1f"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "27",
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sd-20160619-913-2000x1334.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Séance de Groupe",
+          "text": "<p>Vous avez des difficultés à faire certains mouvements, un stress physique ou respiratoire, vous faites un geste répétitif pour votre travail devenu inconfortable voire douloureux, vous avez perdu de la mobilité d'action, vous aimeriez plus de confort dans vos activités, plus de mobilité pour réaliser vos projets...&nbsp;</p><p><span style=\"font-size: 1.25rem;\">Venez découvrir la Méthode Feldenkrais™ à travers des leçons en petits groupes (max 6 personnes). Durant ces leçons, je vous guide par la voix dans la découverte de mouvements au sol ou assis.&nbsp;</span><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-e",
+          "_styles": {
+            ".lead P": {
+              "text-align": "right"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "27",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sd-20160619-996-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Drag &amp; Drop Website Builder",
+          "text": "<p><span style=\"font-size: 1.25rem;\">Vous explorez ces mouvements inhabituels à votre rythme, en toute sécurité et bienveillance. Vous apprenez à trouver des stratégies en vous-même pour réaliser ces mouvements facilement. Vous élargissez ainsi votre connaissance de vous-même, améliorant votre équilibre, votre mobilité dans l'espace, tout en minimisant l'effort pour plus de confort, d'efficacité et de bien-être dans l'action.&nbsp;</span><br></p><p><span style=\"font-size: 1.25rem;\">Vous pouvez nous rejoindre à tout moment dans l'année, les leçons s'adaptent à tous et à tout moment.&nbsp;</span><br></p><p><span style=\"font-size: 1.25rem;\">Si vous avez des questions, et si vous êtes intéressés :</span><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"mailto:catherine@lemouvementcommepresent.fr\" data-toolbar=\"-mbrBtnMove\">Contactez-moi</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-c",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "27",
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/sd-20160619-1366-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sd-20160619-1366-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Séance Individuelle",
+          "text": "<p>Cette pratique porte le nom d'intégration fonctionnelle. Vous avez au départ une demande liée à vos mouvements dans votre quotidien : une difficulté, une limite, une peur, une capacité de mouvement que vous souhaiter retrouver, des performances que vous souhaitez atteindre facilement.</p><p>Durant la séance, je guide vos mouvements à l’aide de mes mains. Ces mouvements sont très petits et précis pour centrer votre attention sur vous-même. Vous amener ainsi à ressentir les différences par rapport à vos habitudes et apprendre d'autres possibilités de mouvement plus faciles, voire plus harmonieux.&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-i",
+          "_styles": {
+            ".lead P": {
+              "text-align": "right"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "27",
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/photo-5.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/KrFMYtcVAC8?t=18",
+              "aspectratio": "4:3",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Video Embed",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Un exemple de pratique de l'intégration fonctionnelle&nbsp;<span style=\"font-size: 1.25rem;\">partagé sur youtube par&nbsp;</span><span style=\"font-size: 1.25rem;\">la Fédération Feldenkrais de Grande-Bretagne,&nbsp;</span><span style=\"font-size: 1.25rem;\">en anglais donc mais l'essentiel est là...</span></p><p>Si vous avez des questions, et si vous êtes intéressés :</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"mailto:catherine@lemouvementcommepresent.fr\" data-toolbar=\"-mbrBtnMove\">Contactez-moi</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-h",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">&nbsp;</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-warning-outline btn-warning\" data-app-selector=\".nav-item .btn\" href=\"mailto:catherine@lemouvementcommepresent.fr\">Me contacter</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "gift",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "color": "#f1c050",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Le Mouvement Comme Présent, pratiquer la Méthode Feldenkrais avec Catherine</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-9",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 - Catherine Chat, Le Mouvement Comme Présent.",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-f"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": "2",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f1c050",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "Mes clients en parle...",
+          "items": [
+            {
+              "authorName": "Témoignage de Marie",
+              "authorBio": "3 séances en individuel puis reparticipe aux séances de groupe",
+              "text": "<i>« Je commence les séances de Feldenkrais avec enthousiasme, l'idée d'explorer et d'améliorer les mouvements m'intéresse beaucoup; mais avec aussi pas mal d'appréhension: des vertiges dus à des problèmes de cervicales et d'oreille interne rendent certains mouvements particulièrement pénibles.&nbsp;</i><i style=\"font-size: 1rem;\">De fait, les séances sont parfois difficiles; Catherine m'encourage et adapte mes premières leçons, mais j'avance avec trop de craintes et pas assez de confiance en moi. Je décide donc de ne pas poursuivre...</i><div><i><br></i></div><div><i>Alors Catherine m'invite à insister, à travailler en trouvant le moyen d'aller assez loin mais pas trop, à être à l'écoute de moi pour trouver mon chemin vers le mouvement le plus confortable.&nbsp;</i><i style=\"font-size: 1rem;\">Elle m'apprend aussi, si un exercice me semble trop dur, à travailler en imagination, à rendre par l'imagination ce mouvement possible.</i></div><div><i>Au fil des séances, je découvre et utilise tout cela, et je reçois comme un cadeau ce que j'apprends de moi, je reprends confiance et le mouvement devient \"présent\".</i></div><div><i><br></i></div><div><i>Aujourd'hui j'ai surmonté mes craintes, j'apprends à m'organiser et chaque leçon est un moment que j'attends, que je reçois avec beaucoup de plaisir, et que j'essaye de prolonger tout au long de la semaine. »</i></div>"
+            },
+            {
+              "authorName": "Témoignage d'Arnaud",
+              "authorBio": "Participe aux séances de groupe",
+              "text": "<p><i>« Feldenkrais est apparu, il y a six mois dans ma vie. L'impact est immédiat. Cette méthode liée au mouvement et à la conscience de cette motion intérieure infiniment petite soit-elle me séduit. J'y trouve une nouvelle façon de me recentrer, de m'ancrer, dans le présent de la séance et entre chacune d'entre elles, une réappropriation de mon corps, et de trouver un relâchement ou un lâcher prise efficace.</i></p><p></p><div><i>Il est bon d'entendre cette voix extérieure vous guider et mettre l'accent sur ce que je perçois de moi les yeux clos, de mes appuis au sol, des dimensions de mon corps de part et d'autre de mon axe.</i></div><div><i><br></i></div><div><i>J'ai senti dès les premières séances des choses se modifier dans mes mouvements, mes postures, mes appuis ...une attention plus particulière...</i></div><div><i><br></i></div><div><i>Merci Catherine d'être l'intermédiaire et ce guide sur ce nouveau chemin. »</i></div><p></p>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-g",
+          "testimonial": [
+            {
+              "authorName": "Témoignage de Marie",
+              "authorBio": "3 séances en individuel puis reparticipe aux séances de groupe",
+              "text": "<i>« Je commence les séances de Feldenkrais avec enthousiasme, l'idée d'explorer et d'améliorer les mouvements m'intéresse beaucoup; mais avec aussi pas mal d'appréhension: des vertiges dus à des problèmes de cervicales et d'oreille interne rendent certains mouvements particulièrement pénibles.&nbsp;</i><i style=\"font-size: 1rem;\">De fait, les séances sont parfois difficiles; Catherine m'encourage et adapte mes premières leçons, mais j'avance avec trop de craintes et pas assez de confiance en moi. Je décide donc de ne pas poursuivre...</i><div><i><br></i></div><div><i>Alors Catherine m'invite à insister, à travailler en trouvant le moyen d'aller assez loin mais pas trop, à être à l'écoute de moi pour trouver mon chemin vers le mouvement le plus confortable.&nbsp;</i><i style=\"font-size: 1rem;\">Elle m'apprend aussi, si un exercice me semble trop dur, à travailler en imagination, à rendre par l'imagination ce mouvement possible.</i></div><div><i>Au fil des séances, je découvre et utilise tout cela, et je reçois comme un cadeau ce que j'apprends de moi, je reprends confiance et le mouvement devient \"présent\".</i></div><div><i><br></i></div><div><i>Aujourd'hui j'ai surmonté mes craintes, j'apprends à m'organiser et chaque leçon est un moment que j'attends, que je reçois avec beaucoup de plaisir, et que j'essaye de prolonger tout au long de la semaine. »</i></div>"
+            },
+            {
+              "authorName": "Témoignage d'Arnaud",
+              "authorBio": "Participe aux séances de groupe",
+              "text": "<p><i>« Feldenkrais est apparu, il y a six mois dans ma vie. L'impact est immédiat. Cette méthode liée au mouvement et à la conscience de cette motion intérieure infiniment petite soit-elle me séduit. J'y trouve une nouvelle façon de me recentrer, de m'ancrer, dans le présent de la séance et entre chacune d'entre elles, une réappropriation de mon corps, et de trouver un relâchement ou un lâcher prise efficace.</i></p><p></p><div><i>Il est bon d'entendre cette voix extérieure vous guider et mettre l'accent sur ce que je perçois de moi les yeux clos, de mes appuis au sol, des dimensions de mon corps de part et d'autre de mon axe.</i></div><div><i><br></i></div><div><i>J'ai senti dès les premières séances des choses se modifier dans mes mouvements, mes postures, mes appuis ...une attention plus particulière...</i></div><div><i><br></i></div><div><i>Merci Catherine d'être l'intermédiaire et ce guide sur ce nouveau chemin. »</i></div><p></p>"
+            }
+          ],
+          "_styles": {
+            ".card-block I": {
+              "color": "#37383e"
+            },
+            ".card-footer > div": {
+              "color": "#e7aa1f"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "En savoir plus...",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7aa1f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "En savoir plus...",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page1.html#msg-box3-q\" data-toolbar=\"-mbrBtnMove\">Feldenkrais, c'est quoi et pour qui ?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page1.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Catherine, c'est qui ?</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-11",
+          "_styles": {
+            "H2": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">&nbsp;</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-warning-outline btn-warning\" data-app-selector=\".nav-item .btn\" href=\"mailto:catherine@lemouvementcommepresent.fr\">Me contacter</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "gift",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "color": "#f1c050",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Le Mouvement Comme Présent, pratiquer la Méthode Feldenkrais avec Catherine</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-j"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#e7aa1f",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/sd-20160619-167-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sd-20160619-167-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sd-20160619-806-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sd-20160619-806-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sd-20160619-637-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sd-20160619-637-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sd-20160619-262-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sd-20160619-262-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sd-20160619-1117-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sd-20160619-1117-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sd-20160619-1246-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sd-20160619-1246-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sd-20160619-645-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sd-20160619-645-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sd-20160619-996-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sd-20160619-996-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-o"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Feldenkrais, c'est quoi et pour qui ?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>La Méthode Feldenkrais™ est une forme d’apprentissage pour tirer parti de vos potentiels en prenant conscience de votre corps à travers les mouvements.&nbsp;<span style=\"font-size: 1.25rem;\">Elle fait partie d'une famille d'approches qu'on appelle communément « gymnastiques douces » et dont le terme plus approprié est éducation somatique. La méthode, reconnue comme étant sans risque, ne demande pas d'effort particulier et peut aider tant les enfants que les adultes et les personnes âgées.</span></p><p><span style=\"font-size: 1.25rem;\">Cette méthode a été développée par <a href=\"https://fr.wikipedia.org/wiki/Moshe_Feldenkrais\" target=\"_blank\">Moshé Feldenkrais</a>, docteur en sciences physiques et ingénieur en mécanique. Il était aussi passionné de football et de judo. Mais il se blesse aux genoux ! De ses profondes connaissances de la mécanique et de la physique du corps, il développe sa méthode.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">La plupart d'entre nous n’utilisent pas « leur corps » de la meilleure manière. Le fonctionnement optimal de la mécanique de notre corps repose, pour une bonne part, sur la mobilité entre les différents segments de notre squelette.</span></p><p><span style=\"font-size: 1.25rem;\">La <a href=\"https://www.passeportsante.net/fr/Therapies/Guide/Fiche.aspx?doc=feldenkrais_th\" target=\"_blank\">Méthode Feldenkrais™</a>, avec son approche mécanique et physique, se concentre justement sur la mobilité relative entre ces différents segments. Elle utilise certaines stratégies simples d'apprentisage pour améliorer cette mobilité tout en minimisant l'effort. Y ont recours des personnes aux prises avec de la douleur ou un dysfonctionnement moteur, mais aussi des personnes voulant mieux exploiter leur corps.</span></p><p><span style=\"font-size: 1.25rem;\">Elle est donc pratiquée tant par par des personnes de tout âge qui souhaitent développer ou améliorer leur mobilité dans l'espace sans douleur, que par des sportifs, acteurs, ou musiciens qui ont besoin d'une exploitation plus intense de leur corps en évitant de se blesser.&nbsp;</span></p><p>Elle est difficile à appréhender par l'écriture, il faut l'expérimenter.&nbsp;<span style=\"font-size: 1.25rem;\">Alors venez la découvrir à travers les 2 types de séances :</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html#msg-box4-e\" data-toolbar=\"-mbrBtnMove\">Séance en groupe</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html#msg-box4-i\" data-toolbar=\"-mbrBtnMove\">Séance en individuel</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-q"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Catherine, c'est qui ?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Les enseignants de la Méthode Feldenkrais™ reçoivent une accréditation à l'issue d'une formation de 4 années ayant été validée par l'<a href=\"http://www.eurotab.org/\" target=\"_blank\">EuroTAB council</a>.&nbsp;<span style=\"font-size: 1.25rem;\">Je suis enseignante certifiée depuis 2014 de l'<a href=\"http://www.ifeld.fr/\" target=\"_blank\">IFeld, l'Institut de Formation Feldenkrais</a>. Je suis membre de la <a href=\"http://www.feldenkrais-france.org/\" target=\"_blank\">Fédération Feldenkrais France</a>&nbsp;qui fédère des <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=18OXMRNqu3YjvUdREEnQ0k7u7Yh0&amp;ll=47.24038652856485%2C1.493756806250076&amp;z=6\" target=\"_blank\">centaines d'enseignants certifiés en France</a>.</span></p><p><span style=\"font-size: 1.25rem;\">Mes mentors sont les belles personnes qui m'enseignent la &nbsp;méthode : Yvan Joly, Christine Barrat de l'IFELD, Léa Wolgensinger, Richard Corbeil, Larry Goldfard, Alan Questel et bien d'autres à venir pour revalider périodiquement ma certification à la demande de l'<a href=\"https://feldenkrais-method.org/\" target=\"_blank\">International Feldenkrais Federation</a>.</span></p><p><span style=\"font-size: 1.25rem;\">J'ai découvert Feldenkrais lorsque j'ai commencé à travailler des heures devant un ordinateur, il y a maintenant bien longtemps selon <a href=\"https://www.linkedin.com/in/catherinechat/\" target=\"_blank\">mon profil LinkedIn</a> ;-) Grâce à la méthode, j’ai pu résoudre mes inconforts et apprivoiser mes tensions à travailler devant l’écran dans un environnement stressant et contraint. J'ai pu aussi surmonter les eccueils de la vie en trouver l'énergie d'avancer pour réaliser mes rêves.</span></p><p>J'enseigne à <a href=\"https://goo.gl/maps/oqCJJBgcBkC2\" target=\"_blank\">proximité de Saint Brévin les Pins</a>, dans mon petit atelier, où je vous accueille en individuel ou en petits groupes à la demande.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html#msg-box4-i\" data-toolbar=\"-mbrBtnMove\">Séance en individuel</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html#msg-box4-e\" data-toolbar=\"-mbrBtnMove\">Séance en groupe</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#testimonials1-g\" data-toolbar=\"-mbrBtnMove\">Témoignages</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-u"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.262004672968!2d-2.1212119840242307!3d47.23090702184742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x480571b2863050e7%3A0xfc4eb48244826509!2sLe+Bois+Jubin%2C+44320+Saint-P%C3%A8re-en-Retz!5e1!3m2!1sfr!2sfr!4v1552993097054\" width=\"400\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+              "placeId": "iframe",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>Contact</strong><br>\n<a href=\"mailto:catherine@lemouvementcommepresent.fr\">Catherine Chat</a><br>proche de Saint Brévin les Pins<a href=\"mailto:catherine@lemouvementcommepresent.fr\"><br></a>Phone: +33 (6) 77 81 48 43",
+          "text2": "<strong>Liens</strong><ul><li><a href=\"https://www.linkedin.com/in/catherinechat/\" target=\"_blank\">Mon profile sur LinkedIn</a></li><li><a href=\"http://www.ifeld.fr\" target=\"_blank\">Mon institut de formation</a></li><li><a href=\"http://www.feldenkrais-france.org\" target=\"_blank\">Fédération Feldenkrais France</a></li><li><a href=\"https://www.google.com/maps/d/u/0/viewer?mid=18OXMRNqu3YjvUdREEnQ0k7u7Yh0&amp;ll=47.24038652856485%2C1.493756806250076&amp;z=6\" target=\"_blank\">Autres praticiens en France</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-w"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7aa1f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "En savoir plus...",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page1.html#msg-box3-q\" data-toolbar=\"-mbrBtnMove\">Feldenkrais, c'est quoi et pour qui ?</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page1.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Catherine, c'est qui ?</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-p",
+          "_styles": {
+            "H1": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
