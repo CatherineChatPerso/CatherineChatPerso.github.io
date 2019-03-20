@@ -43,7 +43,6 @@
 
 
 
-
 #msg-box1-11 H2 {
   font-family: 'Open Sans', sans-serif;
 }
@@ -72,10 +71,9 @@
 #msg-box3-u .mbr-section-title {
   text-align: left;
   font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
 }
 #msg-box3-u .lead P {
   text-align: left;
-}
-#header1-p H1 {
-  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
 }
