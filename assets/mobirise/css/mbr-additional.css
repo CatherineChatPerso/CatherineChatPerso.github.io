@@ -40,6 +40,56 @@
 #testimonials1-g .mbr-section-title {
   font-family: 'Open Sans', sans-serif;
 }
+#menu-z .navbar-toggler {
+  color: #000;
+}
+
+
+
+
+
+#msg-box1-11 H2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 46px;
+}
+#msg-box1-11 P {
+  font-size: 32px;
+}
+#menu-j .navbar-toggler {
+  color: #000;
+}
+#msg-box2-15 DIV {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box2-15 H2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+}
+#msg-box5-13 .lead P {
+  text-align: left;
+}
+#msg-box4-y .lead P {
+  text-align: left;
+}
+#msg-box4-y .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+}
+#msg-box3-u .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-u .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-u .mbr-section-title {
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+}
+#msg-box3-u .lead P {
+  text-align: left;
+  color: #ffffff;
+}
 
 
 

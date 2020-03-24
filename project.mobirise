@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LMCP",
-    "currentPage": "page1.html",
+    "currentPage": "move-in.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -14,8 +14,8 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 31,
-    "versionPublish": "4.9.6",
+    "uniqCompNum": 43,
+    "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": ""
@@ -330,7 +330,7 @@
             "hamburgerColor": "#000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">&nbsp;</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-warning-outline btn-warning\" data-app-selector=\".nav-item .btn\" href=\"mailto:catherine@lemouvementcommepresent.fr\">Me contacter</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-warning-outline btn-warning\" data-app-selector=\".nav-item .btn\" href=\"page1.html#msg-box3-u\">Me contacter</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -376,7 +376,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 - Catherine Chat, Le Mouvement Comme Présent.",
+          "text": "Copyright (c) 2020 - Catherine Chat, Le Mouvement Comme Présent.",
           "alias": "purity/components",
           "_tags": [
             "Thème"
@@ -452,7 +452,456 @@
         }
       ]
     },
-    "page1.html": {
+    "tmp.html": {
+      "settings": {
+        "title": "brouillon",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">&nbsp;</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-warning-outline btn-warning\" data-app-selector=\".nav-item .btn\" href=\"page1.html#msg-box3-u\">Me contacter</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "gift",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "color": "#f1c050",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Le Mouvement Comme Présent, pratiquer la Méthode Feldenkrais avec Catherine</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-z"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 - Catherine Chat, Le Mouvement Comme Présent.",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-10"
+        },
+        {
+          "text": "<p>Après des heures à fixer notre écran, tapper sur notre clavier... nous souffrons de douleurs plus ou moins persistantes: nuque tendue, poignet ou épaule douloureux, dos endolori, tête lourde... Nous perdons de la mobilité, notre attention donc notre performance et notre créativité sont impactées.</p><p><br></p><p>Nous supposons que ces douleurs découlent de l'incapacité de nos corps à résister à l\"effort. Et si nous envisagions que ces douleurs soient liées à la manière d'effectuer notre activité, à la façon dont nous utilisons notre corps !</p><p><br></p><p>Alors ces séances nous font prendre conscience de comment nous bougeons et nous apprenent à explorer d'autres mouvement pour effectuer notre activité.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-11"
+        }
+      ]
+    },
+    "move-in.html": {
+      "settings": {
+        "title": "Move'in",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7aa1f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Move'in !<br>",
+          "text": "des mini séances - en mouvement - devant votre écran",
+          "button": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page1.html#msg-box3-q\" data-toolbar=\"-mbrBtnMove\">Feldenkrais, c'est quoi et pour qui ?</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-11",
+          "_styles": {
+            "H2": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "46px"
+            },
+            "P": {
+              "font-size": "32px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">&nbsp;</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-warning-outline btn-warning\" data-app-selector=\".nav-item .btn\" href=\"page1.html#msg-box3-u\">Me contacter</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "gift",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "color": "#f1c050",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Le Mouvement Comme Présent, pratiquer la Méthode Feldenkrais avec Catherine</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-j"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Le mouvement c'est la vie ! <br>Nous ne pouvons pas sortir mais <br>nous pouvons bouger \"à l'intérieur\" : let's Move'in ! &nbsp;",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-15",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "H2": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "30",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sd-20160619-706-1067x1600.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Video Embed",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Move'in ! ce sont des mini-séances de 15 à 30 minutes, une progression de mouvements simples pour défatiguer, retrouver votre liberté de bouger.</p><p>Conçues pour vous, personne des entreprises du numérique, qui travaillez toute la journée devant un écran. Je vous invite à me rejoindre en direct par écran interposé. Puis je partage le replay pour que vous puissiez rejouer à volonté.</p><p>Move'in! visite vos gestes du quotidien devant l'écran: les appuis de vos pieds, la mobilité de votre bassin, la fluidité de votre respiration, l'alignement de votre colonne, l'organisation de vos bras, la perception de vos mains, la liberté de votre tête, le jeux de vos yeux...</p><p>Ces séances sont issues de mon expérience croisée, praticienne certifiée de la Méthode Feldenkrais™ &amp; ingénieure logiciel. Elles s'inspirent du \"Guide de la Méthode Feldenkrais™ pour les gens pressés\", de Frank Wildman.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-13",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "One of the Easiest Website Builders",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"move-in.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>Comment vous préparer ?</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-16"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "9",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/images-183x276.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Comment vous préparer ?",
+          "text": "<p><span style=\"font-size: 1.25rem;\">Choisissez une chaise stable, sans roulette, la plus simple possible : surface plate &nbsp;et dossier droit. Même un tabouret bien stable fera l'affaire. La hauteur de la chaise devrait permettre à vos plantes de pieds de reposer entièrement sur le sol sans effort. Si ce n'est pas le cas, rehaussez le sol avec une petite pile de BD sous chaque pieds. Pas de BDs qui glissent, attention !</span></p><p><span style=\"font-size: 1.25rem;\">Insistez sur le confort et la sécurité : L'inconfort, la douleur sont des signaux indiquant que votre corps demande de trouver une position plus confortable, un nouvelle façon de bouger, écoutez et répondez-y avec bienveillance : ralentissez votre mouvement, diminuez l'amplitude de moitié, faite petit et doucement.</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-y",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#000000"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/cat%20-%201-643x719.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#e7aa1f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#37383e",
+            "overlayOpacity": "0.5"
+          },
+          "title": "En savoir plus ...<br>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Références &amp; autres liens :<br><a href=\"https://www.kikekoidonou.com/feldenkrais/le-guide-de-la-methode-feldenkrais-pour-les-gens-presses-detail\" target=\"_blank\" style=\"font-size: 1.25rem; background-color: rgb(231, 170, 31);\">Guide de la Méthode Feldenkrais™ pour les gens pressés</a><span style=\"font-size: 1.25rem;\">\" de Frank Wildman,&nbsp;<a href=\"https://feldenkrais-education.com\" target=\"_blank\">Feldenkrais Education</a></span></p><p><span style=\"font-size: 1.25rem;\">Liens</span></p><p><span style=\"font-size: 1.25rem;\">Mon profile sur LinkedIn</span></p><p><span style=\"font-size: 1.25rem;\">Mon institut de formation</span></p><p><span style=\"font-size: 1.25rem;\">Fédération Feldenkrais France</span></p><p><span style=\"font-size: 1.25rem;\">Autres praticiens en France</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"index.html#msg-box4-i\" data-toolbar=\"-mbrBtnMove\">Feldenkrais, c'est quoi ?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"index.html#msg-box4-e\" data-toolbar=\"-mbrBtnMove\">Catherine, c'est qui ?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#testimonials1-g\" data-toolbar=\"-mbrBtnMove\">Témoignages</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-u"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 - Catherine Chat, Le Mouvement Comme Présent.",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-f"
+        }
+      ]
+    },
+    "more.html": {
       "settings": {
         "title": "En savoir plus...",
         "order": 1
@@ -507,7 +956,7 @@
             "hamburgerColor": "#000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">&nbsp;</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-warning-outline btn-warning\" data-app-selector=\".nav-item .btn\" href=\"mailto:catherine@lemouvementcommepresent.fr\">Me contacter</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-warning-outline btn-warning\" data-app-selector=\".nav-item .btn\" href=\"page1.html#msg-box3-u\">Me contacter</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
