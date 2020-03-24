@@ -737,7 +737,7 @@
             "showText": false,
             "showButtons": true,
             "inverse": false,
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
