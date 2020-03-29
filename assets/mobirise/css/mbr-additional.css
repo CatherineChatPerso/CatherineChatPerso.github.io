@@ -40,9 +40,6 @@
 #testimonials1-g .mbr-section-title {
   font-family: 'Open Sans', sans-serif;
 }
-#menu-z .navbar-toggler {
-  color: #000;
-}
 
 
 
@@ -73,6 +70,9 @@
 }
 #msg-box4-y .mbr-section-title {
   font-family: 'Open Sans', sans-serif;
+  text-align: left;
+}
+#msg-box4-y .lead {
   text-align: left;
 }
 #msg-box3-u .mbr-header .mbr-header__text {
