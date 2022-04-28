@@ -97,6 +97,8 @@
 
 
 
+
+
 #dropdown-menu-22 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -150,19 +152,31 @@
   font-family: 'Open Sans', sans-serif;
   font-size: 24px;
 }
-#msg-box5-3d .mbr-section-title {
-  font-family: 'Alegreya Sans', sans-serif;
-  text-align: left;
-  font-size: 46px;
-  color: #ffffff;
-}
-#msg-box5-3d .lead P {
+#msg-box4-3k .lead P {
   text-align: left;
 }
-#msg-box5-3d .lead {
+#msg-box4-3k .mbr-section-title {
   text-align: left;
-  color: #37383e;
-  font-size: 20px;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 36px;
+}
+#msg-box3-3l .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-3l .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-3l .lead P {
+  text-align: left;
+}
+#msg-box3-3l .mbr-section-title {
+  text-align: left;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 21px;
+}
+#msg-box3-3l .mbr-section-title I {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 22px;
 }
 #contacts1-1g STRONG {
   color: #ffffff;
@@ -303,7 +317,7 @@
 }
 #content4-2t H4 {
   font-family: 'Oxygen', sans-serif;
-  font-size: 22px;
+  font-size: 18px;
   text-align: right;
 }
 #contacts1-1g STRONG {
