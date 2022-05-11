@@ -7,13 +7,13 @@
       "title": "PurityM",
       "styling": {},
       "additionalSetColors": [
+        "#a6734b",
+        "#bc865d",
         "#aea5a2",
         "#37383e",
         "#e7aa1f",
         "#005454",
-        "#f2af7c",
-        "#776557",
-        "#5b5249"
+        "#f2af7c"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -24,7 +24,7 @@
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/chat.png",
     "noImageResize": "",
-    "mbrsiteDomain": "utkwqr0mgr",
+    "mbrsiteDomain": "ut0pnkb6mg",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -99,10 +99,10 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": "2",
+            "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sd-20160620.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ifeld-mono-4.jpeg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -111,7 +111,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#f2af7c",
+            "overlayColor": "#a6734b",
             "overlayOpacity": "0.5"
           },
           "title": "Venez pratiquer",
@@ -432,10 +432,10 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": 3,
+            "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/felddessavoie-blandine.jpeg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ifeld-grpe-mono-1.jpeg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -447,7 +447,7 @@
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#716b69",
+            "overlayColor": "#a6734b",
             "overlayOpacity": "0.6"
           },
           "title": "la Méthode Feldenkrais™",
@@ -895,12 +895,12 @@
             {
               "authorName": "Témoignage de Marie",
               "authorBio": "",
-              "text": "<i>« Je commence les séances de Feldenkrais avec enthousiasme, l'idée d'explorer et d'améliorer les mouvements m'intéresse beaucoup; mais avec aussi pas mal d'appréhension: des vertiges dus à des problèmes de cervicales et d'oreille interne rendent certains mouvements particulièrement pénibles.&nbsp;</i><i style=\"font-size: 1rem;\">De fait, les séances sont parfois difficiles pour moi; Catherine m'encourage et adapte mes premières leçons, mais j'avance avec trop de craintes et <b>pas assez de confiance en moi</b>. Je décide donc de ne pas poursuivre...</i><div><i><br></i></div><div><i>Alors Catherine m'invite à explorer, à travailler en trouvant le moyen d'aller assez loin mais pas trop, à <b>être à l'écoute de moi pour trouver mon chemin</b> vers le mouvement le plus confortable.&nbsp;</i><i style=\"font-size: 1rem;\">Elle m'apprend aussi, si un exercice me semble trop dur, à travailler en imagination, à rendre par l'imagination ce mouvement possible.</i></div><div><i>Au fil des séances, je découvre et utilise tout cela, et <b>je reçois comme un cadeau ce que j'apprends de moi, je reprends confiance</b> et le mouvement devient \"présent\".</i></div><div><i><br></i></div><div><i>Aujourd'hui j'ai surmonté mes craintes, j'apprends à m'organiser et chaque leçon est un moment que j'attends, que je reçois avec beaucoup de plaisir, et que j'essaye de prolonger tout au long de la semaine. »</i></div>"
+              "text": "<i>« Je commence les séances de Feldenkrais avec enthousiasme, l'idée d'explorer et d'améliorer les mouvements m'intéresse beaucoup; mais avec aussi pas mal d'appréhension: des vertiges dus à des problèmes de cervicales et d'oreille interne rendent certains mouvements particulièrement pénibles.&nbsp;</i><i style=\"font-size: 1rem;\">Catherine m'encourage et adapte mes premières leçons, mais <b>j'avance avec beaucoup de craintes</b> et <b>pas assez de confiance en moi</b>.&nbsp;</i><div><i><br></i></div><div><i>Alors Catherine m'invite à explorer, à travailler en trouvant le moyen d'aller assez loin mais pas trop, à <b>être à l'écoute de moi pour trouver mon chemin</b> vers le mouvement le plus confortable.&nbsp;</i><i style=\"font-size: 1rem;\">Elle m'apprend aussi, si un exercice me semble trop dur, à travailler en imagination, à rendre par l'imagination ce mouvement possible.</i></div><div><i>Au fil des séances, je découvre et utilise tout cela, et <b>je reçois comme un cadeau ce que j'apprends de moi, je reprends confiance</b> et le mouvement devient \"présent\".</i></div><div><i><br></i></div><div><i>Aujourd'hui <b>j'ai surmonté mes craintes</b>, <b>j'apprends à m'organiser </b>et chaque leçon est un moment que j'attends, que je reçois avec beaucoup de plaisir, et que j'essaye de prolonger tout au long de la semaine. »</i></div>"
             },
             {
               "authorName": "Témoignage d'Arnicia",
               "authorBio": "",
-              "text": "<p><i>« Feldenkrais est apparu, il y a six mois dans ma vie. L'impact est immédiat. Cette méthode liée au mouvement et à la conscience de cette motion intérieure infiniment petite soit-elle me séduit. J'y trouve une nouvelle façon de me recentrer, de m'ancrer, dans le présent de la séance et entre chacune d'entre elles, une réappropriation de mon corps, et de trouver un relâchement ou un lâcher prise efficace.</i></p><p></p><div><i>Il est bon d'entendre cette voix extérieure vous guider et mettre l'accent sur ce que je perçois de moi les yeux clos, de mes appuis au sol, des dimensions de mon corps de part et d'autre de mon axe.</i></div><div><i><br></i></div><div><i>J'ai senti dès les premières séances des choses se modifier dans mes mouvements, mes postures, <b>mes appuis sont devenus des aides dans mon quotiden face aux changements</b>...j'ai maintenant une <b>attention à moi-même rassurante</b>.</i></div><div><i><br></i></div><div><i>Merci Catherine d'être l'intermédiaire et ce guide sur ce nouveau chemin. »</i></div><p></p>"
+              "text": "<p><i>« Feldenkrais est apparu, il y a six mois dans ma vie. L'impact est immédiat. Cette méthode liée au mouvement et à la conscience de cette motion intérieure infiniment petite soit-elle me séduit. J'y trouve une nouvelle façon de me recentrer, de m'ancrer, dans le présent de la séance et entre chacune d'entre elles, une réappropriation ludique de mon corps, et de trouver un relâchement ou un lâcher prise efficace.</i></p><p></p><div><i>Il est bon d'entendre cette voix extérieure vous guider et mettre l'accent sur ce que je perçois de moi les yeux clos, de mes appuis au sol, des dimensions de mon corps de part et d'autre de mon axe.</i></div><div><i><br></i></div><div><i>J'ai senti dès les premières séances des choses se modifier dans mes mouvements, mes postures, <b>mes appuis sont devenus des aides dans mon quotidien face aux changements</b>...j'ai maintenant une <b>attention à moi-même rassurante</b>.</i></div><div><i><br></i></div><div><i>Merci Catherine d'être l'intermédiaire et ce guide sur ce nouveau chemin. »</i></div><p></p>"
             },
             {
               "authorName": "JHOLLMAN C.",
@@ -1069,7 +1069,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sd-20160619-996-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ifeld-mono-3.jpeg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -1078,7 +1078,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#f2af7c",
+            "overlayColor": "#bc865d",
             "overlayOpacity": "0.3"
           },
           "title": "<b><br><br>Le Chat Qui Bouge</b><br>Ateliers de la Méthode Feldenkrais™ pour le plaisir de bouger !",
