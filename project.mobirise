@@ -19,12 +19,12 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 130,
+    "uniqCompNum": 138,
     "versionPublish": "5.5.8",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/chat.png",
     "noImageResize": "",
-    "mbrsiteDomain": "ut0pnkb6mg",
+    "mbrsiteDomain": "uzbyuty5kw",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -37,11 +37,12 @@
     "pratiquer.html": {
       "settings": {
         "title": "Venez pratiquer...",
-        "meta_descr": "",
+        "meta_descr": "Venez pratiquer la Méthode Feldenkrais en petit groupe ou en individuel. Une pratique simple, vivante et ludique, pour (re)apprendre le plaisir de bouger au quotidien !\n\nLa salle de pratique est aménagée comme un cocon accueillant et chaleureux. En matériaux éco-responsables, elle est posée dans un écrin de nature, proche de Saint-Brévin les Pins.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 1,
+        "meta_image": "@PROJECT_PATH@/assets/images/lechatquibouge-pratiquer-1.png"
       },
       "components": [
         {
@@ -229,7 +230,7 @@
             }
           },
           "title": "dans un lieu accueillant",
-          "text": "<p>Aménagé pour offrir un cocon chaleureux pour la pratique de la Méthode Feldenkrais. Tout en matériaux eco-responsables, mon refuge est posé dans la nature, proche de Saint-Brévin les Pins.</p>",
+          "text": "<p>La salle de pratique est aménagée comme un cocon chaleureux. En matériaux éco-responsables, elle est posée dans un écrin de nature, proche de Saint-Brévin les Pins.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -304,7 +305,7 @@
           },
           "title": "<i>« Le but est de bouger avec un minimum d’effort pour une efficacité maximum, non pas par la force musculaire mais par une plus grande conscience de la façon dont cela fonctionne. » Moshe Feldenkrais</i>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Je vous accueille au Bois Jubin, au cœur de la nature du Pays de Retz, à 3km du centre de Saint-Brévin les Pins. </p><p>L'environnement de pratique privilégie la santé et le confort avec des matériaux écologiques, un chauffage au sol doux et régulé, un sol accueillant et des tapis de sol en matière naturelle. Une grande place est faite à la nature pour profiter de ses bienfaits lors des moments de pause que nous prendrons ensemble sur la terrasse entourée du potager et du verger de petits fruits ou sous le pin, emblème du Bois Jubin.</p><p>Pour votre confort, prévoyez de porter des vêtements chauds et confortables, que vous soyez libres de vos mouvements. Apportez également un plaid ou un tissu que vous poserez sur les tapis de sol.</p>",
+          "text": "<p>Je vous accueille au Bois Jubin, au cœur de la nature du Pays de Retz, à 3km du centre de Saint-Brévin les Pins. </p><p>L'environnement de pratique privilégie la santé et le confort avec des matériaux écologiques, un chauffage au sol doux et régulé, un sol accueillant et des tapis de sol en matière naturelle. Une grande place est faite à la nature pour profiter de ses bienfaits lors des moments de pause que nous prendrons ensemble sur la terrasse entourée du potager et du verger de petits fruits ou sous le pin, emblème du Bois Jubin.</p><p>Prévoyez de porter des vêtements chauds et confortables pour être libres de vos mouvements durant les leçons. Apportez également un plaid ou un tissu que vous poserez sur les tapis de sol.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"more.html#video1-18\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\"></span>En vidéo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"more.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Catherine, c'est qui ?</a>  ",
           "alias": "purity/components",
           "_tags": [
@@ -374,7 +375,8 @@
       "settings": {
         "title": "la Méthode Feldenkrais",
         "order": 2,
-        "meta_descr": ""
+        "meta_descr": "« Mettre plus de qualité dans son mouvement,\nc'est mettre plus de qualité dans sa vie. »\nLa Méthode Feldenkrais™ utilise des stratégies simples d'apprentissage pour trouver notre mobilité, tout en minimisant l'effort. Elle est pratiquée par des personnes de tout âge qui souhaitent retrouver ou développer leur potentiel de mouvement dans leurs activités.",
+        "meta_image": "@PROJECT_PATH@/assets/images/lechatquibouge-methode.png"
       },
       "components": [
         {
@@ -522,7 +524,7 @@
           },
           "title": "« Mettre plus de qualité dans son mouvement, c'est mettre plus de qualité dans sa vie. »",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><span style=\"font-size: 1.25rem;\">Au cours de notre vie,&nbsp;</span><span style=\"font-size: 1.25rem;\">nous avons sélectionné certains gestes utiles à nos activités, qui sont devenus nos façons de faire dans notre quotidien et qui conditionne notre relation à nous-même, aux autres et à notre environnement quotidien. Et si ce quotidien est inconfortable ? si nos gestes nous limitent ? nous contraignent à retomber toujours dans les mêmes schémas ? qu'il nous parait impossible de changer nos mauvaises habitudes ? alors comment mieux vivre...</span><br></p><p><span style=\"font-size: 1.25rem;\"><i>« Rendre l’impossible possible, le possible facile, le facile élégant. » Moshe Feldenkrais</i></span><br></p><p>La Méthode Feldenkrais™ utilise des stratégies simples d'apprentissage pour trouver notre mobilité, tout en minimisant l'effort<span style=\"font-size: 1.25rem;\">. En prenant conscience de la façon dont nous bougeons, nous pourrons intégrer ces stratégies, trouver d'autres chemins pour rendre le mouvement faisable et bouger avec plus de facilité, plus de bien-être et de fluidité, plus de qualité et de liberté.&nbsp;</span></p><p><i><span style=\"font-size: 1.25rem;\">« Grâce à la Prise de Conscience, nous pouvons apprendre à nous déplacer avec une légèreté et une liberté étonnante, pratiquement à tout âge. »&nbsp;</span><span style=\"font-size: 1.25rem;\">Moshe Feldenkrais</span></i></p><p>La Méthode Feldenkrais™ est donc pratiquée par des personnes de tout âge qui souhaitent retrouver ou développer leur potentiel dans leurs activités : retrouver sa mobilité, assurer son équilibre, augmenter ses capacités d'orientation, trouver une meilleure répartition de l'effort, libérer sa vitalité, améliorer son image de soi, booster sa créativité, avancer avec les contraintes...</p><p><i style=\"font-size: 1.25rem;\">« Le mouvement c’est la vie. La vie est un processus. Améliorer la qualité du processus améliore la qualité de la vie elle-même. »   Moshe Feldenkrais</i><br></p><p><span style=\"font-size: 1.25rem;\">La Méthode Feldenkrais™ est une méthode d'éducation somatique. Elle se décline en deux approches. </span></p><p><span style=\"font-size: 1.25rem;\">Une pratique en groupe, appelée&nbsp;</span><span style=\"font-size: 1.25rem;\"><b>Prise de Conscience par le Mouvement</b>, où les personnes sont guidées par la voix du praticien dans une suite de mouvements simples et ludiques. Chaque personne explore pour elle-même, sans jugement, les variations de ces mouvements pour ses propres expériences et faire son propre apprentissage. </span></p><p><span style=\"font-size: 1.25rem;\">Une pratique individuelle, appelée <b>Intégration Fonctionnelle</b>, où la personne vient avec une demande spécifique. Ce sont les mains du praticien qui par un toucher doux et non-intrusif guident la personne à explorer ces variations de mouvement, à ressentir les différences, pour clarifier son organisation.</span></p><p><span style=\"font-size: 1.25rem;\">Des exemples \"en mouvement\" dans <a href=\"https://youtu.be/Wx457Weuwts?t=180\" class=\"text-warning\" target=\"_blank\">cette vidéo</a> réalisée par le Groupe Feldenkrais des Savoie.</span></p>",
+          "text": "<p><span style=\"font-size: 1.25rem;\">Au cours de notre vie,&nbsp;</span><span style=\"font-size: 1.25rem;\">nous avons sélectionné certains gestes utiles à nos activités, qui sont devenus nos façons de faire dans notre quotidien et qui conditionnent notre relation à nous-même, aux autres et à notre environnement quotidien. Et si ce quotidien est inconfortable ? si nos gestes nous limitent ? nous contraignent à retomber toujours dans les mêmes schémas ? qu'il nous parait impossible de changer nos mauvaises habitudes ? alors comment mieux vivre...</span><br></p><p><span style=\"font-size: 1.25rem;\"><i>« Rendre l’impossible possible, le possible facile, le facile élégant. » Moshe Feldenkrais</i></span><br></p><p>La Méthode Feldenkrais™ utilise des stratégies simples d'apprentissage pour trouver notre mobilité, tout en minimisant l'effort<span style=\"font-size: 1.25rem;\">. En prenant conscience de la façon dont nous bougeons, nous pourrons intégrer ces stratégies, trouver d'autres chemins pour rendre le mouvement faisable et bouger avec plus de facilité, plus de bien-être et de fluidité, plus de qualité et de liberté.&nbsp;</span></p><p><i><span style=\"font-size: 1.25rem;\">« Grâce à la Prise de Conscience, nous pouvons apprendre à nous déplacer avec une légèreté et une liberté étonnante, pratiquement à tout âge. »&nbsp;</span><span style=\"font-size: 1.25rem;\">Moshe Feldenkrais</span></i></p><p>La Méthode Feldenkrais™ est donc pratiquée par des personnes de tout âge qui souhaitent retrouver ou développer leur potentiel dans leurs activités : retrouver sa mobilité, assurer son équilibre, augmenter ses capacités d'orientation, trouver une meilleure répartition de l'effort, libérer sa vitalité, améliorer son image de soi, booster sa créativité, avancer avec les contraintes...</p><p><i style=\"font-size: 1.25rem;\">« Le mouvement c’est la vie. La vie est un processus. Améliorer la qualité du processus améliore la qualité de la vie elle-même. »   Moshe Feldenkrais</i><br></p><p><span style=\"font-size: 1.25rem;\">La Méthode Feldenkrais™ est une méthode d'éducation somatique. Elle se décline en deux approches. </span></p><p><span style=\"font-size: 1.25rem;\">Une pratique en groupe, appelée&nbsp;</span><span style=\"font-size: 1.25rem;\"><b>Prise de Conscience par le Mouvement</b>, où les personnes sont guidées par la voix du praticien dans une suite de mouvements qui s'organisent en leçons simples et ludiques.&nbsp; Ces leçons se jouent principalement au sol pour plus de facilité et une totale sécurité. Chaque personne explore pour elle-même, sans jugement, les variations de ces mouvements pour faire ses propres expériences et son propre apprentissage. </span></p><p><span style=\"font-size: 1.25rem;\">Une pratique individuelle, appelée <b>Intégration Fonctionnelle</b>, où la personne vient avec une demande spécifique. Ce sont les mains du praticien qui, par un toucher doux et non-intrusif, guident la personne pour explorer ces variations de mouvement, pour ressentir les différences et pour clarifier son organisation.</span></p><p><span style=\"font-size: 1.25rem;\">Des exemples \"en mouvement\" dans <a href=\"https://youtu.be/Wx457Weuwts?t=180\" class=\"text-warning\" target=\"_blank\">cette vidéo</a> réalisée par le Groupe Feldenkrais des Savoie.</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"more.html#video1-18\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\"></span>En vidéo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"more.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Catherine, c'est qui ?</a>  ",
           "alias": "purity/components",
           "_tags": [
@@ -546,7 +548,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#dddddd",
+            "bgColor": "#aea5a2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -577,7 +579,7 @@
             }
           },
           "title": "<br>Moshé Feldenkrais",
-          "text": "<p>Moshé Feldenkrais a développé cette méthode d'apprentissage pour <br>« <i>Travailler avec et non contre les mécanismes de résistance de la personne <br>afin de l’aider à révéler leur potentiel</i> »<span style=\"font-size: 1.25rem;\">.</span></p>",
+          "text": "<p>Moshé Feldenkrais a développé cette méthode d'apprentissage pour <br>« <i>Travailler avec et non contre les mécanismes de résistance de la personne <br>afin de l’aider à révéler son potentiel</i> »<span style=\"font-size: 1.25rem;\">.</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -646,7 +648,7 @@
           },
           "title": "<i>« Le but est de bouger avec un minimum d’effort pour une efficacité maximum, non pas par la force musculaire mais par une plus grande conscience de la façon dont cela fonctionne. » Moshe Feldenkrais</i>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Docteur en sciences physiques et sportif de haut niveau, Moshé Feldenkrais est le créateur de la méthode éponyme.</p><p>Il a formé des centaines de praticiens à sa méthode, en Israël, en Europe et aux USA. Parmi ses élèves notoires, on peut citer Yehudi Menuhin, David Ben Gourion, Igor Markevitch, J.F.Kennedy, Ariane Mnouchkine, Léonard Bernstein… Il a formé des centaines de praticiens dont les personnes qui m'ont formées : mon directeur pédagogique, Yvan Joly, les trainers internationaux que j'ai eu la chance d'avoir comme enseignants : Larry Goldfarb, Myriam et Sabine Pfeiffer, Richard Corbeil, Léa Wolgensinger, Alan Questel, Christine Barrat...</p><p>En France, le nombre de praticiens certifiés croît chaque année grâce aux 3 écoles de formation sur notre territoire. Près d'un millier de praticiens sont certifiés. Vous trouverez ceux qui comme moi sont affiliés à la fédération sur la carte du site Feldenkrais France.</p>",
+          "text": "<p>Docteur en sciences physiques et sportif de haut niveau, Moshé Feldenkrais est le créateur de la méthode éponyme.</p><p>Parmi ses élèves notoires, on peut citer Yehudi Menuhin, David Ben Gourion, Igor Markevitch, J.F.Kennedy, Ariane Mnouchkine, Léonard Bernstein… Il a formé des centaines de praticiens à sa méthode, en Israël, en Europe et aux USA dont les personnes qui m'ont formées : mon directeur pédagogique, Yvan Joly, les trainers internationaux que j'ai eu la chance d'avoir comme enseignants, Larry Goldfarb, Myriam et Sabine Pfeiffer, Richard Corbeil, Léa Wolgensinger, Alan Questel, Christine Barrat...</p><p>En France, le nombre de praticiens certifiés croît chaque année grâce aux 3 écoles de formation sur notre territoire. Près d'un millier sont certifiés. Vous trouverez ceux qui comme moi sont affiliés à la fédération sur la carte du site Feldenkrais France.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"more.html#video1-18\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\"></span>En vidéo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"more.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Catherine, c'est qui ?</a>  ",
           "alias": "purity/components",
           "_tags": [
@@ -716,7 +718,8 @@
       "settings": {
         "title": "avec Catherine",
         "order": 3,
-        "meta_descr": "Catherine, \nRévèlatrice de Potenti'elle...\nEnseignante de la Méthode Feldenkrais & Ingénieure"
+        "meta_descr": "Catherine Chat -\nUn chat qui bouge !\nJe pratique la Méthode Feldenkrais™ depuis plus de 25 ans.\nJe suis praticienne certifiée par l'EuroTAB depuis 2014,\naprès 4 années de formation à l'IFELD et des post-formations annuelles avec des trainers internationaux.",
+        "meta_image": "@PROJECT_PATH@/assets/images/lechatquibouge-catherine.png"
       },
       "components": [
         {
@@ -790,7 +793,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "avec Catherine",
-          "caption": "<p><span style=\"font-size: 1.25rem;\">Un chat qui bouge !<br></span><span style=\"font-size: 1.25rem;\">Je pratique la Méthode Feldenkrais™ depuis plus de 25 ans.<br>je suis praticienne certifiée par l'EuroTAB depuis 2014.</span></p>",
+          "caption": "<p><span style=\"font-size: 1.25rem;\">Un chat qui bouge !<br></span><span style=\"font-size: 1.25rem;\">Je pratique la Méthode Feldenkrais™ depuis plus de 25 ans.<br>Je suis praticienne certifiée par l'EuroTAB depuis 2014,<br>après 4 années de formation à l'IFELD.</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -864,7 +867,7 @@
           },
           "title": "<i>« Le but est de bouger avec un minimum d’effort pour une efficacité maximum, non pas par la force musculaire mais par une plus grande conscience de la façon dont cela fonctionne. » Moshe Feldenkrais</i>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><span style=\"font-size: 1.25rem;\">Je m’appelle Catherine Chat. Je suis un chat qui bouge ;-)</span></p><p><span style=\"font-size: 1.25rem;\"> </span></p><p><span style=\"font-size: 1.25rem;\">D’aussi longtemps que je me souvienne, je bouge pour avancer dans ma vie. J’avance, je recule, j’hésite, je fais un pas à côté, je cherche,  je me perd, j'explore, je trouve… donc je bouge !</span><br></p><p>Et puis il y a eu la rencontre avec la Méthode Feldenkrais, et j’ai pris conscience que tous ces déséquilibres construisent mon équilibre et me construisent. Avec cette méthode, j’ai appris que nous n'avons pas des qualités ou des défauts mais un potentiel que nous pouvons faire émerger pour bouger mieux. J'ai appris à prendre conscience de mes mouvements dans l’espace, à bouger avec aisance, en prenant soin de mon confort. Et c’est devenu ma façon de bouger à tout instant.</p><p><span style=\"font-size: 1.25rem;\">Et la bonne nouvelle, c'est que nous l'avons tous ce potentiel et que la Méthode Feldenkrais est une pédagogie pour le mobiliser.</span></p>",
+          "text": "<p><span style=\"font-size: 1.25rem;\">Je m’appelle Catherine Chat. Je suis un chat qui bouge ;-)</span></p><p><span style=\"font-size: 1.25rem;\"> </span></p><p><span style=\"font-size: 1.25rem;\">D’aussi longtemps que je me souvienne, je bouge pour avancer dans ma vie. J’avance, je recule, j’hésite, je fais un pas à côté, je cherche,  je me perds, j'explore, je trouve… donc je bouge !</span><br></p><p>Puis, en 1995, il y a eu la rencontre avec la Méthode Feldenkrais, et j’ai pris conscience que tous ces déséquilibres construisent mon équilibre et me construisent. Avec cette méthode, j’ai appris que nous n'avons pas des qualités ou des défauts mais un potentiel que nous pouvons faire émerger pour bouger mieux. J'ai appris à prendre conscience de mes mouvements dans l’espace, à bouger avec aisance, en prenant soin de mon confort. Et c’est devenu ma façon de bouger à tout instant.</p><p><span style=\"font-size: 1.25rem;\">Et la bonne nouvelle, c'est que nous l'avons tous ce potentiel et que la Méthode Feldenkrais est une pédagogie pour le mobiliser.</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"more.html#video1-18\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\"></span>En vidéo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"more.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Catherine, c'est qui ?</a>  ",
           "alias": "purity/components",
           "_tags": [
@@ -890,17 +893,17 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "header": "Mes clients en parlent...",
+          "header": "Mes clients en parlent",
           "items": [
+            {
+              "authorName": "Témoignage d'Arnetta",
+              "authorBio": "",
+              "text": "<i>« Feldenkrais est apparu, il y a six mois dans ma vie. L'impact est immédiat. Cette méthode liée au mouvement et à la conscience de cette motion intérieure infiniment petite soit-elle me séduit. J'y trouve une nouvelle façon de me recentrer, de m'ancrer, dans le présent de la séance et entre chacune d'entre elles, une réappropriation ludique de mon corps, et de trouver un relâchement ou un lâcher prise efficace.</i><div><i><br></i></div><div><i>Il est bon d'entendre cette voix extérieure vous guider et mettre l'accent sur ce que je perçois de moi les yeux clos, de mes appuis au sol, des dimensions de mon corps de part et d'autre de mon axe.</i></div><div><i><br></i></div><div><i>J'ai senti dès les premières séances des choses se modifier dans mes mouvements, mes postures, <b>mes appuis sont devenus des aides dans mon quotidien face aux changements</b>...j'ai maintenant une <b>attention à moi-même rassurante</b>.</i></div><div><i><br></i></div><div><i>Merci Catherine d'être l'intermédiaire et ce guide sur ce nouveau chemin. »</i></div>"
+            },
             {
               "authorName": "Témoignage de Marie",
               "authorBio": "",
-              "text": "<i>« Je commence les séances de Feldenkrais avec enthousiasme, l'idée d'explorer et d'améliorer les mouvements m'intéresse beaucoup; mais avec aussi pas mal d'appréhension: des vertiges dus à des problèmes de cervicales et d'oreille interne rendent certains mouvements particulièrement pénibles.&nbsp;</i><i style=\"font-size: 1rem;\">Catherine m'encourage et adapte mes premières leçons, mais <b>j'avance avec beaucoup de craintes</b> et <b>pas assez de confiance en moi</b>.&nbsp;</i><div><i><br></i></div><div><i>Alors Catherine m'invite à explorer, à travailler en trouvant le moyen d'aller assez loin mais pas trop, à <b>être à l'écoute de moi pour trouver mon chemin</b> vers le mouvement le plus confortable.&nbsp;</i><i style=\"font-size: 1rem;\">Elle m'apprend aussi, si un exercice me semble trop dur, à travailler en imagination, à rendre par l'imagination ce mouvement possible.</i></div><div><i>Au fil des séances, je découvre et utilise tout cela, et <b>je reçois comme un cadeau ce que j'apprends de moi, je reprends confiance</b> et le mouvement devient \"présent\".</i></div><div><i><br></i></div><div><i>Aujourd'hui <b>j'ai surmonté mes craintes</b>, <b>j'apprends à m'organiser </b>et chaque leçon est un moment que j'attends, que je reçois avec beaucoup de plaisir, et que j'essaye de prolonger tout au long de la semaine. »</i></div>"
-            },
-            {
-              "authorName": "Témoignage d'Arnicia",
-              "authorBio": "",
-              "text": "<p><i>« Feldenkrais est apparu, il y a six mois dans ma vie. L'impact est immédiat. Cette méthode liée au mouvement et à la conscience de cette motion intérieure infiniment petite soit-elle me séduit. J'y trouve une nouvelle façon de me recentrer, de m'ancrer, dans le présent de la séance et entre chacune d'entre elles, une réappropriation ludique de mon corps, et de trouver un relâchement ou un lâcher prise efficace.</i></p><p></p><div><i>Il est bon d'entendre cette voix extérieure vous guider et mettre l'accent sur ce que je perçois de moi les yeux clos, de mes appuis au sol, des dimensions de mon corps de part et d'autre de mon axe.</i></div><div><i><br></i></div><div><i>J'ai senti dès les premières séances des choses se modifier dans mes mouvements, mes postures, <b>mes appuis sont devenus des aides dans mon quotidien face aux changements</b>...j'ai maintenant une <b>attention à moi-même rassurante</b>.</i></div><div><i><br></i></div><div><i>Merci Catherine d'être l'intermédiaire et ce guide sur ce nouveau chemin. »</i></div><p></p>"
+              "text": "<p><i style=\"font-size: 1rem;\">« Je commence les séances de Feldenkrais avec enthousiasme, l'idée d'explorer et d'améliorer les mouvements m'intéresse beaucoup; mais avec aussi pas mal d'appréhension: des vertiges dus à des problèmes de cervicales et d'oreille interne rendent certains mouvements particulièrement pénibles. Catherine m'encourage et adapte mes premières leçons, mais <b>j'avance avec beaucoup de craintes</b> et <b>pas assez de confiance en moi</b>.&nbsp;</i><br></p><div><i><br></i></div><div><i>Alors Catherine m'invite à explorer, à travailler en trouvant le moyen d'aller assez loin mais pas trop, à <b>être à l'écoute de moi pour trouver mon chemin</b> vers le mouvement le plus confortable. Elle m'apprend aussi, si un exercice me semble trop dur, à travailler en imagination, à rendre par l'imagination ce mouvement possible.</i></div><div><i>Au fil des séances, je découvre et utilise tout cela, et <b>je reçois comme un cadeau ce que j'apprends de moi, je reprends confiance</b> et le mouvement devient \"présent\".</i></div><div><i><br></i></div><div><i>Aujourd'hui <b>j'ai surmonté mes craintes, j'apprends à m'organiser </b>et chaque leçon est un moment que j'attends, que je reçois avec beaucoup de plaisir, et que j'essaye de prolonger tout au long de la semaine. »</i></div><p></p>"
             },
             {
               "authorName": "JHOLLMAN C.",
@@ -932,14 +935,14 @@
           "_anchor": "testimonials1-1s",
           "testimonial": [
             {
-              "authorName": "Témoignage de Marie",
+              "authorName": "Témoignage d'Arnetta",
               "authorBio": "",
-              "text": "<i>« Je commence les séances de Feldenkrais avec enthousiasme, l'idée d'explorer et d'améliorer les mouvements m'intéresse beaucoup; mais avec aussi pas mal d'appréhension: des vertiges dus à des problèmes de cervicales et d'oreille interne rendent certains mouvements particulièrement pénibles.&nbsp;</i><i style=\"font-size: 1rem;\">Catherine m'encourage et adapte mes premières leçons, mais <b>j'avance avec beaucoup de craintes</b> et <b>pas assez de confiance en moi</b>.&nbsp;</i><div><i><br></i></div><div><i>Alors Catherine m'invite à explorer, à travailler en trouvant le moyen d'aller assez loin mais pas trop, à <b>être à l'écoute de moi pour trouver mon chemin</b> vers le mouvement le plus confortable.&nbsp;</i><i style=\"font-size: 1rem;\">Elle m'apprend aussi, si un exercice me semble trop dur, à travailler en imagination, à rendre par l'imagination ce mouvement possible.</i></div><div><i>Au fil des séances, je découvre et utilise tout cela, et <b>je reçois comme un cadeau ce que j'apprends de moi, je reprends confiance</b> et le mouvement devient \"présent\".</i></div><div><i><br></i></div><div><i>Aujourd'hui <b>j'ai surmonté mes craintes</b>, <b>j'apprends à m'organiser </b>et chaque leçon est un moment que j'attends, que je reçois avec beaucoup de plaisir, et que j'essaye de prolonger tout au long de la semaine. »</i></div>"
+              "text": "<i>« Feldenkrais est apparu, il y a six mois dans ma vie. L'impact est immédiat. Cette méthode liée au mouvement et à la conscience de cette motion intérieure infiniment petite soit-elle me séduit. J'y trouve une nouvelle façon de me recentrer, de m'ancrer, dans le présent de la séance et entre chacune d'entre elles, une réappropriation ludique de mon corps, et de trouver un relâchement ou un lâcher prise efficace.</i><div><i><br></i></div><div><i>Il est bon d'entendre cette voix extérieure vous guider et mettre l'accent sur ce que je perçois de moi les yeux clos, de mes appuis au sol, des dimensions de mon corps de part et d'autre de mon axe.</i></div><div><i><br></i></div><div><i>J'ai senti dès les premières séances des choses se modifier dans mes mouvements, mes postures, <b>mes appuis sont devenus des aides dans mon quotidien face aux changements</b>...j'ai maintenant une <b>attention à moi-même rassurante</b>.</i></div><div><i><br></i></div><div><i>Merci Catherine d'être l'intermédiaire et ce guide sur ce nouveau chemin. »</i></div>"
             },
             {
-              "authorName": "Témoignage d'Arnicia",
+              "authorName": "Témoignage de Marie",
               "authorBio": "",
-              "text": "<p><i>« Feldenkrais est apparu, il y a six mois dans ma vie. L'impact est immédiat. Cette méthode liée au mouvement et à la conscience de cette motion intérieure infiniment petite soit-elle me séduit. J'y trouve une nouvelle façon de me recentrer, de m'ancrer, dans le présent de la séance et entre chacune d'entre elles, une réappropriation ludique de mon corps, et de trouver un relâchement ou un lâcher prise efficace.</i></p><p></p><div><i>Il est bon d'entendre cette voix extérieure vous guider et mettre l'accent sur ce que je perçois de moi les yeux clos, de mes appuis au sol, des dimensions de mon corps de part et d'autre de mon axe.</i></div><div><i><br></i></div><div><i>J'ai senti dès les premières séances des choses se modifier dans mes mouvements, mes postures, <b>mes appuis sont devenus des aides dans mon quotidien face aux changements</b>...j'ai maintenant une <b>attention à moi-même rassurante</b>.</i></div><div><i><br></i></div><div><i>Merci Catherine d'être l'intermédiaire et ce guide sur ce nouveau chemin. »</i></div><p></p>"
+              "text": "<p><i style=\"font-size: 1rem;\">« Je commence les séances de Feldenkrais avec enthousiasme, l'idée d'explorer et d'améliorer les mouvements m'intéresse beaucoup; mais avec aussi pas mal d'appréhension: des vertiges dus à des problèmes de cervicales et d'oreille interne rendent certains mouvements particulièrement pénibles. Catherine m'encourage et adapte mes premières leçons, mais <b>j'avance avec beaucoup de craintes</b> et <b>pas assez de confiance en moi</b>.&nbsp;</i><br></p><div><i><br></i></div><div><i>Alors Catherine m'invite à explorer, à travailler en trouvant le moyen d'aller assez loin mais pas trop, à <b>être à l'écoute de moi pour trouver mon chemin</b> vers le mouvement le plus confortable. Elle m'apprend aussi, si un exercice me semble trop dur, à travailler en imagination, à rendre par l'imagination ce mouvement possible.</i></div><div><i>Au fil des séances, je découvre et utilise tout cela, et <b>je reçois comme un cadeau ce que j'apprends de moi, je reprends confiance</b> et le mouvement devient \"présent\".</i></div><div><i><br></i></div><div><i>Aujourd'hui <b>j'ai surmonté mes craintes, j'apprends à m'organiser </b>et chaque leçon est un moment que j'attends, que je reçois avec beaucoup de plaisir, et que j'essaye de prolonger tout au long de la semaine. »</i></div><p></p>"
             }
           ]
         },
@@ -1004,10 +1007,11 @@
       "settings": {
         "main": true,
         "title": "Le Chat Qui Bouge",
-        "meta_descr": "Ateliers de la Méthode Feldenkrais, avec Catherine Chat, enseignante praticienne certifiée.\n\nVous avez envie de continuer à bouger, d’avancer facilement dans votre vie, voire d’être plus en harmonie avec votre environnement ? Venez pratiquer la Méthode Feldenkrais, explorer ses mouvements inhabituels, faire émerger votre potentiel en mouvement et (re)trouvez le plaisir de bouger.\n",
+        "meta_descr": "Ateliers de la Méthode Feldenkrais, avec Catherine Chat, enseignante praticienne certifiée.\n\nVous avez envie de continuer à bouger, d’avancer facilement dans votre vie, voire d’être plus en harmonie avec votre environnement ? Venez pratiquer la Méthode Feldenkrais, explorer ses mouvements inhabituels, faire émerger votre potentiel en mouvement et trouvez le plaisir de bouger.\n",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/lechatquibouge-index.png"
       },
       "components": [
         {
@@ -1069,7 +1073,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ifeld-mono-3.jpeg",
+            "bgImage": "@PROJECT_PATH@/assets/images/lechatquibouge-2.jpeg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -1082,7 +1086,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "<b><br><br>Le Chat Qui Bouge</b><br>Ateliers de la Méthode Feldenkrais™ pour le plaisir de bouger !",
-          "text": "<i>« Grâce à la Prise de Conscience(*), nous pouvons apprendre à nous déplacer avec légèreté et une liberté étonnante, à tout âge.»   Moshé Feldenkrais</i><br><br>Je vous invite à découvrir cette pédagogie vivante et ludique pour (re)trouver le plaisir de bouger au quotidien.<br>",
+          "text": "<i>« Grâce à la Prise de Conscience(*), nous pouvons apprendre à nous déplacer avec légèreté et une liberté étonnante, à tout âge.»   Moshé Feldenkrais</i><br><br>Je vous invite à découvrir cette pédagogie vivante et ludique pour trouver le plaisir de bouger au quotidien.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"pratiquer.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn\"></span>Venez pratiquer...</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"feldenkrais.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>la Méthode Feldenkrais™</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"catherine.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>avec Catherine</a>  ",
           "alias": "purity/components",
           "_tags": [
@@ -1162,7 +1166,7 @@
           "title1": "<i>« Le mouvement c’est la vie. La vie est un processus. Améliorer la qualité du processus,<br>améliore la qualité de la vie. »   Moshé Feldenkrais</i>",
           "caption1": "<br>Je m’appelle <a href=\"catherine.html\" class=\"text-warning\"><b>Catherine Chat</b></a>, je suis un chat qui bouge ;-)&nbsp;<br><br>Grace à la <a href=\"feldenkrais.html\" class=\"text-warning\" style=\"font-weight: bold;\">Méthode Feldenkrais</a>, j’ai  appris que nous n'avons pas des qualités ou des défauts mais un potentiel que nous pouvons faire émerger pour bouger mieux. Et bouger mieux, c'est améliorer une dimension essentielle de la vie, celle de la liberté d'avancer à son rythme, de trouver son équilibre au quotidien.<br><br>La bonne nouvelle ? Nous avons tous ce potentiel enfoui en nous et nous avons une pédagogie pour apprendre à le mobiliser : la Méthode Feldenkrais.<br>",
           "title2": "<i>« Rendre l’impossible possible, le possible facile, <br>le facile élégant. »  Moshé Feldenkrais</i>",
-          "caption2": "<br><br>Vous avez envie de continuer à bouger, d’avancer dans votre vie, plus facilement, d’être plus en harmonie avec ce qui vous entoure ? <a href=\"pratiquer.html\" class=\"text-warning\"><b>Venez pratiquer</b></a> la Méthode Feldenkrais, faire émerger votre potentiel en mouvement et trouvez le plaisir de bouger comme un chat qui bouge !<br><br>Comment ?&nbsp;Par des stratégies ludiques, vous apprenez à chercher votre mouvement idéal, faisant ainsi émerger une meilleure organisation musculo-squelettique. Par des mouvements inhabituels, simples et doux, vous explorez de nouveaux chemins de mouvements, proposant ainsi à votre système nerveux de nouvelles connections, élargissant vos possibilités.<br>",
+          "caption2": "<br><br>Vous avez envie de continuer à bouger, d’avancer dans votre vie, plus facilement, d’être plus en harmonie avec ce qui vous entoure ? <a href=\"pratiquer.html\" class=\"text-warning\"><b>Venez pratiquer</b></a> la Méthode Feldenkrais, faire émerger votre potentiel en mouvement et trouvez le plaisir de bouger comme un chat !<br><br>Comment ?&nbsp;Par des stratégies ludiques, vous apprenez à chercher votre mouvement idéal, faisant ainsi émerger une meilleure organisation musculo-squelettique. Par des mouvements inhabituels, simples et doux, vous explorez de nouveaux chemins de mouvements, proposant ainsi à votre système nerveux de nouvelles connections, élargissant vos possibilités.<br>",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Websites",
